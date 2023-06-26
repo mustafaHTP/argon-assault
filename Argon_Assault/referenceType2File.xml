@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>2cf26e84bafcc84419f2e6fc324e7fb4</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-06-26T16:34:08.5366602+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2b65c70913a0cf4dab2dd93cf0506e9</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-06-26T16:34:08.5366602+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ade4d40689fd8174d8ba3f59e12b76ff</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-06-26T16:34:08.5376597+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30a1d61be8f56474ca6bcdc5541a0855</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-06-26T16:34:08.5376597+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>853c1c7f872ca6440bf40d157f545502</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-06-26T16:34:08.5376597+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6e6765a11a113ea4e8e4e70894221623</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-06-26T16:34:08.538659+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f52b0907e839944aa0c17e104f58456</guid>
+    <fileName>Assets/Scripts/AmbienceMusicPlayer.cs</fileName>
+    <timeStamp>2023-06-26T13:01:13.6927011+03:00</timeStamp>
+    <typeFullName>
+      <string>AmbienceMusicPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>766496963f04f0941893227c348d0c28</guid>
+    <fileName>Assets/Scripts/EnemyAutoFire.cs</fileName>
+    <timeStamp>2023-06-26T13:01:13.5417951+03:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAutoFire</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c023a9f331fc61439c0c57b1bb42094</guid>
+    <fileName>Assets/Scripts/EnemyCollisionController.cs</fileName>
+    <timeStamp>2023-06-26T13:01:13.468762+03:00</timeStamp>
+    <typeFullName>
+      <string>EnemyCollisionController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16d4cd98bc50a994d88c25a7ff3db42a</guid>
+    <fileName>Assets/Scripts/EnemyLaserTrigger.cs</fileName>
+    <timeStamp>2023-06-26T13:01:13.4445786+03:00</timeStamp>
+    <typeFullName>
+      <string>EnemyLaserTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e737281098ce387479601935f78cd442</guid>
+    <fileName>Assets/Scripts/HealthBarController.cs</fileName>
+    <timeStamp>2023-06-26T13:01:13.5291283+03:00</timeStamp>
+    <typeFullName>
+      <string>HealthBarController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43a323ab2e219eb4687501d36a07521a</guid>
+    <fileName>Assets/Scripts/MainMenu.cs</fileName>
+    <timeStamp>2023-06-26T13:15:37.4198106+03:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c32855a8ce9ad614c84ab6dd276ceb59</guid>
+    <fileName>Assets/Scripts/PlayerCollisionController.cs</fileName>
+    <timeStamp>2023-06-26T13:01:13.4862542+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerCollisionController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3e397afec81f8a34bb4f132319a039d4</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2023-06-26T14:24:52.2970548+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53226261e7b4f7e4da9e40f9d8685921</guid>
+    <fileName>Assets/Scripts/Scorer.cs</fileName>
+    <timeStamp>2023-06-24T16:01:24.4773928+03:00</timeStamp>
+    <typeFullName>
+      <string>Scorer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3370cfa8c46cc064a9806860022307ae</guid>
+    <fileName>Assets/Scripts/SelfDestructor.cs</fileName>
+    <timeStamp>2023-06-24T14:43:35.662758+03:00</timeStamp>
+    <typeFullName>
+      <string>SelfDestructor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/AssetPacks/StarSparrow/Readme/Readme Files/Scripts/ReadmeStarSparrow.cs</fileName>
+    <timeStamp>2023-06-16T19:08:57.7621872+03:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeStarSparrow</string>
+      <string>ReadmeStarSparrow+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56b3964d2acb6074b9c11ef1e954f974</guid>
+    <fileName>Assets/AssetPacks/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeStarSparrowEditor.cs</fileName>
+    <timeStamp>2022-09-03T17:21:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
